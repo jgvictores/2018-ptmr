@@ -44,10 +44,6 @@
 ### Programación: Wishlist
 
 - Textual
-   - Interfaz de línea de comandos (CLI)
-   - Interfaz gráfica de usuario (GUI)
-   - Interfaz de programación de aplicaciones (API)
-   - Infraestructura de comunicaciones
 - Por guiado
 
 #VSLIDE
