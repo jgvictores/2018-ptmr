@@ -19,7 +19,6 @@
 - Posibilidad de interacción/programación
 - Visualización: 2D, 3D
 - Física: gravedad, detección de colisiones
-----
 - Componentes adicionales: sonido, física de partículas, objetos deformables...
 
 #VSLIDE
@@ -34,6 +33,10 @@
 ### Programación: Wishlist
 
 - Textual
+   - Interfaz de línea de comandos (CLI)
+   - Interfaz gráfica de usuario (GUI)
+   - Interfaz de programación de aplicaciones (API)
+   - Infraestructura de comunicaciones
 - Por guiado
 
 #VSLIDE
