@@ -51,7 +51,14 @@
 - Por guiado
 
 #VSLIDE
-### Communicaciones
+### Programación Textual
+
+- Interfaz de línea de comandos (CLI)
+- Interfaz gráfica de usuario (GUI)
+- Interfaz de programación de aplicaciones (API)
+- Comunicaciones externas
+#VSLIDE
+### Communicaciones externas
 
 - I/O Digital
 - Buses de campo
