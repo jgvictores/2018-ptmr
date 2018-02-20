@@ -15,13 +15,10 @@
 ### Simuladores: Wishlist
 
 - Actuadores/sensores/eslabones
-- Elementos externos
 - Posibilidad de interacción/programación
 - Visualización
 - Física
-   - Gravedad, detección de colisiones.
-- Componentes adicionales
-   - Sonido, física de partículas, objetos deformables...
+- Componentes adicionales...
 
 #VSLIDE
 ### Simuladores
