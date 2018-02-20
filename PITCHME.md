@@ -4,13 +4,17 @@
 ----
 ### Planificación de Tareas y Movimientos de Robots
 ----
-##### TUTORIAL 1: YARP/OpenRAVE/MATLAB
+##### TUTORIAL 1: OpenRAVE/YARP/MATLAB
 ----
 #VSLIDE
 ## 2018-ptmr
 ----
 - Simuladores
 - Infraestructuras para communicaciones sobre IP
+---
+### Simuladores: Wishlist
+
+- Sensores/Actuadores
 ---
 ### Simuladores
 
@@ -20,16 +24,6 @@
 - DRAKE
 
 ---
-### Simuladores: Wishlist
-
-- API estable
-- Lenguajes de programación
-- Sistemas operaticvos
-- CMake
-- Flexible
-- Plugins
-- Ligero
-- Comunidad
 ### Programación
 
 - Textual
