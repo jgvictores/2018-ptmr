@@ -35,10 +35,11 @@
 - Posibilidad de interacción/programación
 - Visualización
 - Física
-- Componentes adicionales...
-- Flexibilidad
-- Coste computacional
-- Comunidad
+- Componentes adicionales
+- Otros factores
+   - Flexibilidad
+   - Coste computacional
+   - Comunidad
 ---
 ### Programación: Wishlist
 
