@@ -14,12 +14,14 @@
 ---
 ### Simuladores: Wishlist
 
-- Robots: actuadores/sensores/eslabones
-- Elementos externos: entorno, objetos
+- Actuadores/sensores/eslabones
+- Elementos externos
 - Posibilidad de interacción/programación
-- Visualización: 2D, 3D
-- Física: gravedad, detección de colisiones
-- Componentes adicionales: sonido, física de partículas, objetos deformables...
+- Visualización
+- Física
+   - Gravedad, detección de colisiones.
+- Componentes adicionales
+   - Sonido, física de partículas, objetos deformables...
 
 #VSLIDE
 ### Simuladores
