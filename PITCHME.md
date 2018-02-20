@@ -15,7 +15,7 @@
 ### Simuladores: Wishlist
 
 - Sensores/Actuadores
----
+#VSLIDE
 ### Simuladores
 
 - Gazebo
