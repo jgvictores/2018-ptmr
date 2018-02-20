@@ -28,6 +28,17 @@
 - V-REP
 - DRAKE
 
+
+### Simuladores: Wishlist
+
+- Actuadores/sensores/eslabones
+- Posibilidad de interacción/programación
+- Visualización
+- Física
+- Componentes adicionales...
+- Flexibilidad
+- Coste computacional
+- Comunidad
 ---
 ### Programación: Wishlist
 
