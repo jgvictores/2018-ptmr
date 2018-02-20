@@ -86,6 +86,7 @@
 
 - Por guiado
 - Textual
+   - Paradigmas de comunicaciones
    - API estable
    - Lenguajes de programación
    - Sistemas operaticvos
