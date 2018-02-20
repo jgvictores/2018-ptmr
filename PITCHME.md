@@ -28,8 +28,8 @@
 - V-REP
 - DRAKE
 
-
-### Simuladores: Wishlist
+#VSLIDE
+### Simuladores: Wishlist Reloaded
 
 - Actuadores/sensores/eslabones
 - Posibilidad de interacción/programación
