@@ -24,7 +24,7 @@
 - DRAKE
 
 ---
-### Programación
+### Programación: Wishlist
 
 - Textual
 - Por guiado
@@ -58,7 +58,7 @@
 ----
 ####### Component-Based Software Engineering (CBSE) #######
 #VSLIDE
-### Wishlist
+### Programación: Wishlist Reloaded
 
 - API estable
 - Lenguajes de programación
