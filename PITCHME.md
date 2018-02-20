@@ -4,7 +4,7 @@
 ----
 ### Planificación de Tareas y Movimientos de Robots
 ----
-### TUTORIAL 1: YARP/OpenRAVE/MATLAB
+##### TUTORIAL 1: YARP/OpenRAVE/MATLAB
 ----
 #VSLIDE
 ## 2018-ptmr
