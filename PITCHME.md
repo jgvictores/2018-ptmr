@@ -37,14 +37,14 @@
 - Física
 - Componentes adicionales
 - Otros factores
-   - Flexibilidad
-   - Coste computacional
+   - Flexibile
+   - Ligero
    - Comunidad
 ---
 ### Programación: Wishlist
 
-- Textual
 - Por guiado
+- Textual
 
 #VSLIDE
 ### Programación Textual
@@ -84,14 +84,14 @@
 #VSLIDE
 ### Programación: Wishlist Reloaded
 
-- API estable
-- Lenguajes de programación
-- Sistemas operaticvos
-- CMake
-- Flexible
-- Plugins
-- Ligero
-- Comunidad
+- Por guiado
+- Textual
+   - API estable
+   - Lenguajes de programación
+   - Sistemas operaticvos
+   - Flexible
+   - Ligero
+   - Comunidad
 ---
 ### Preguntas
 
